@@ -32,4 +32,9 @@ docker pull mano2991/eyevarp
 
 
 Runing eyeVarP pipline 
+
 sh automated.sh
+
+for moder pipline 
+
+sh QC.sh filename(fastq) fastq location (sh qc.sh SRR123 ~/Desktop/data location)
