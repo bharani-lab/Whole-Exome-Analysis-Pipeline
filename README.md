@@ -1,4 +1,4 @@
-# Wole-Exome-Analysis-Pipeline_Manoj
+# Whole exome analysis pipeline
 
 eyeVarP is a modular pipeline
 
